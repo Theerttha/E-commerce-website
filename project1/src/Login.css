@@ -1,0 +1,65 @@
+.LoginBody{
+    background-image: url('pic1.jpg');
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    width:100vh;
+
+
+    
+}
+.topLogin{
+    width:100vh;
+
+}
+.image2{
+    margin: 0;
+    width: 100vh;
+    height: 20vh;
+}
+.Login{
+    margin-top:90px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    
+}
+.LoginContent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Loginbars{
+    background-image: url('pic3.jpg');
+  
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display:block;
+    margin-bottom: 30px;
+    font-size: 25px;
+    border-radius: 30px;
+    text-align: center;
+    
+
+}
+
+.Loginbuttons{
+    background-image: url('pic3.jpg');
+    width: fit-content;
+    padding-left:75px ;
+    font-size: 30px;
+    padding-right: 75px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.passbutton{
+    background-color: rgb(241, 146, 162);
+    border-radius: 10px;
+    
+}
+.passbuttondiv{
+    margin-top: 20px;
+    margin-bottom: 70px;
+
+}
